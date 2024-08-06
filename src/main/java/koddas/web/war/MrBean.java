@@ -19,7 +19,7 @@ public class MrBean implements Serializable {
 	private int age;
 	private String nationality;
 	private String carBrand;
-	
+	private int age1;
 	/**
 	 * Empty constructor.
 	 * 
